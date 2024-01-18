@@ -1,5 +1,7 @@
 # Reflection on Industry Talk 1 – Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.
 
+![Ass2](https://github.com/amierazulaikha/ASSIGNMENT-2/assets/148413070/f37409bf-a0f6-43c8-94ff-49880154f3b7)
+
 ## What I Have Gained 🚀
 From Industry Talk 1, I had the opportunity to delve into the job scopes, roles, and essential skills required for various positions in the Information and Communication Technology (ICT) industry. The speakers provided valuable perspectives on different roles, offering insights into the dynamic landscape of the field. This knowledge not only clarified potential career paths but also emphasized the importance of acquiring a versatile skill set. Inspired by the wealth of information, I now feel better equipped to navigate and pursue a fulfilling career in the ever-evolving realm of ICT.
 
